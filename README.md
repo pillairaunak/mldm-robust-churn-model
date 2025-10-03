@@ -71,7 +71,7 @@ A loop was performed for `k` values from 1 to 30. For each `k`, a 10-fold strati
 
 The analysis concluded that:
 
-  * The optimal number of neighbors is **k = 15**.
-  * The robust, cross-validated accuracy for this model is **0.8351**.
+  * The optimal number of neighbors is **k = 19**.
+  * The robust, cross-validated accuracy for this model is **0.8356**.
 
 This process ensures that the selected model and its performance metric are reliable and not just a result of a lucky train/test split.
